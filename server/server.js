@@ -25,10 +25,10 @@ const storage = multer.diskStorage({
 const upload = multer({ storage: storage });
 
 const db = new pg.Client({
-  user: 'postgres',
-  password: 'postgres123',
-  host: 'localhost',
-  database: 'Budgeto',
+  user: 'sikka',
+  password: 'vi6cNBf95sg37v28yqLbkpRZk991wjyK',
+  host: 'dpg-cn57b7a1hbls73916gqg-a',
+  database: 'budgeto_x9sf',
   port: '5432',
 });
 
