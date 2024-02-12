@@ -1,0 +1,6 @@
+Transaction date,Description,Reference Number,Debit,Credit,Balance
+"01-01-2024",Salary account,76454343,,100000,150000
+"02-01-2024",Rent,67445456,20000,,130000
+"03-01-2024",Vendor,98765432,7000,,123000
+"04-01-2024",Groceries,88876542,15000,,108000
+"05-01-2024",Hospital,99965456,5000,,103000
